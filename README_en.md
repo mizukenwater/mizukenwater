@@ -1,4 +1,6 @@
-# # Job description
+NODE: このページは英語で書かれています。日本語の職務経歴書を見たい方は [このページ](https://github.com/mizukenwater/mizukenwater/blob/main/README.md) を見てください。
+
+# Job description
 ## Self Introduction
 Kenji Mizuguchi was born in 1998.  
 After graduating from high school, I moved to Tokyo to work as a web engineer. I have worked for several startup ventures as a full-time employee and outsourcer.  
