@@ -1,3 +1,5 @@
+NOTE: This is written in Japanese. If you read English, go to [this page.](https://github.com/mizukenwater/mizukenwater/blob/main/README_en.md)
+
 # 職務経歴書
 ## 自己紹介
 水口 研二(Mizuguchi Kenji)。１９９８年生まれ。  
