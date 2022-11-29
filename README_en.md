@@ -1,4 +1,4 @@
-NODE: このページは英語で書かれています。日本語の職務経歴書を見たい方は [このページ](https://github.com/mizukenwater/mizukenwater/blob/main/README.md) を見てください。
+NOTE: このページは英語で書かれています。日本語の職務経歴書を見たい方は [このページ](https://github.com/mizukenwater/mizukenwater/blob/main/README.md) を見てください。
 
 # Job description
 ## Self Introduction
